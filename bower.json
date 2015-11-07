@@ -1,0 +1,19 @@
+{
+  "name": "name",
+  "version": "0.0.1",
+  "main": [
+    "app/scripts/main.js",
+    "app/styles/main.css"
+  ],
+  "ignore": [
+    "./node_modules",
+    ".tmp",
+    "app/bower_components",
+    "app/images"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "handlebars": "~4.0.4"
+  }
+}
